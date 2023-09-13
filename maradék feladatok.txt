@@ -1,0 +1,9 @@
+nem kapja az uplaoded imageket sehol sem, ezt kell orvosolni
+zsebre a 32k-val
+godaddy
+új email szolgáltató
+cpanel lemond a gecibe
+pythonanywhere fizet olcsóbban (btw)
+database connect
+
+
